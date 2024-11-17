@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome
 
-<!--
-**bok1c4/bok1c4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building stuff.  
 
-Here are some ideas to get you started:
+## Tech Stack  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)  
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> Minimal. Secure. Focused.
