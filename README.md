@@ -1,6 +1,4 @@
-# Welcome
-
-Building stuff.  
+Pentesting, Cybersec and Ethical Hacking
 
 ## Tech Stack  
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
