@@ -7,6 +7,6 @@ Engineering, Linux, AI, Systems
 
 ---
 
-Portfolio - https://prtf-omega.vercel.app/
+Portfolio - https://bok1c4.com
 
 > Focused.
