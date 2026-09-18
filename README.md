@@ -2,11 +2,12 @@
 
 Engineering, Linux, AI, Systems · Belgrade, Serbia
 
-I build platforms and ship software with AI as a daily pair. Four years in:
-the first year frontend only, then backend servers alongside the frontend
-work, now the full stack, backend first. Today that means ERP modules and
-data systems on PostgreSQL for supply-chain and sustainability operations,
-while finishing a BSc in Software Engineering.
+I build platforms and ship software with AI as a daily pair. Four years of
+professional work: started on the frontend, followed the requests into the
+backend, now the full stack, backend first. These days that means ERP
+modules and data systems on PostgreSQL for supply-chain and sustainability
+operations, plus the web work around and beyond them: services, APIs, and
+frontends. BSc in Software Engineering in progress.
 
 ## Home lab
 
