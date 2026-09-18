@@ -43,13 +43,8 @@ before it ships. The craft got faster without getting less mine.
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=flat)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=claude&logoColor=white&style=flat)
 
-## Selected work
-
-- [Portfolio](https://bok1c4.com): the full picture, case studies included
-- [toy_store](https://github.com/bok1c4/toy_store): full-stack e-commerce (Go, Next.js, PostgreSQL, Redis, Stripe)
-- [HTTP-Proxy](https://github.com/bok1c4/HTTP-Proxy): multi-hop HTTP forward proxy in C++, layered encryption in progress
-- [rpg-campaign-manager](https://github.com/bok1c4/rpg-campaign-manager): Spring Boot REST API with a React SPA
-
 ---
+
+Portfolio · https://bok1c4.com
 
 > Focused.
