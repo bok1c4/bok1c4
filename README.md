@@ -2,7 +2,7 @@
 
 Engineering, Linux, AI, Systems · Belgrade, Serbia
 
-I build platforms and ship software with AI as a daily pair. Four years of
+I build platforms and ship software with AI as a daily pair. Close to five years of
 professional work: started on the frontend, followed the requests into the
 backend, now the full stack, backend first. These days that means ERP
 modules and data systems on PostgreSQL for supply-chain and sustainability
