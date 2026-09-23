@@ -33,7 +33,6 @@ before it ships. The craft got faster without getting less mine.
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
@@ -45,11 +44,8 @@ before it ships. The craft got faster without getting less mine.
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=flat)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=claude&logoColor=white&style=flat)
 
-## Also
-- Hosted IRC chats over onion services (Tor) and garlic routing (I2P).
-- Rust implementations for systems work.
-
 ---
+
 Portfolio · https://bok1c4.com
 
 > Focused.
